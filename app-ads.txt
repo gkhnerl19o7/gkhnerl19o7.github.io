@@ -141,3 +141,4 @@ sharethrough.com, ftvct81v, RESELLER
 xandr.com, 17779, RESELLER
 xandr.com, 13799, RESELLER
 xandr.com, 15840, RESELLER
+google.com, pub-9601339174131487, DIRECT, f08c47fec0942fa0
